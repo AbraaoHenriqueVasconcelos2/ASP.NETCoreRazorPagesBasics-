@@ -8,4 +8,4 @@
 
 - Registering services in razor pages project
 
-- Routing in asp net core razor pages
+- Routing in asp net core razor pages and passing parameters through url
