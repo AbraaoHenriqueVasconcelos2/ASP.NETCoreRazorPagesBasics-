@@ -1,4 +1,9 @@
-﻿@page
+﻿@*@page "view/{IDEmp}"*@
+
+
+
+@page "/person/view/{IDEmp}"
+
 @model ASPNETCore_RazorPages_Basics.Pages.Employees.DetailsModel
 @{
     ViewData["Title"] = "Details";
@@ -25,7 +30,7 @@
                 <a href="#" class="btn btn-primary">Edit</a>
                 <a href="#" class="btn btn-danger">Delete</a>
             </div>
-        
+
         </div>
 
     </div>
