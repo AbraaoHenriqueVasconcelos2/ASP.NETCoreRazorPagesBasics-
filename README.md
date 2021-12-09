@@ -5,7 +5,7 @@
 - Create two class libraries:
     - Models layer
     - Services layer
-   
-  - Registering services in razor pages project
-  
-  - Routing in asp net core razor pages
+
+- Registering services in razor pages project
+
+- Routing in asp net core razor pages
