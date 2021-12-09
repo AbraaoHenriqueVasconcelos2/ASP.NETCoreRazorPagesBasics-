@@ -1,3 +1,3 @@
 # ASP.NETCoreRazorPagesBasics-
 
-- Custom route arameters values  with @page directive
+- Custom route parameters values  with @page directive
