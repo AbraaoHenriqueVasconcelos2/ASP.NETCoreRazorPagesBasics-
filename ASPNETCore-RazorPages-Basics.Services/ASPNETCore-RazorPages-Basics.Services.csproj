@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ASPNETCore_RazorPages_Basics.Services</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASPNETCore-RazorPages-Basics.Models\ASPNETCore-RazorPages-Basics.Models.csproj" />
+  </ItemGroup>
+
+</Project>

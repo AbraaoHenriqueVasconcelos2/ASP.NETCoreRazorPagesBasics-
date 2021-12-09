@@ -1,0 +1,10 @@
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Models\bin\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.deps.json
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Models\bin\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.dll
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Models\bin\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.pdb
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Models\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.csproj.AssemblyReference.cache
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Models\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Models\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.AssemblyInfoInputs.cache
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Models\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.AssemblyInfo.cs
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Models\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.csproj.CoreCompileInputs.cache
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Models\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.dll
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Models\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.pdb

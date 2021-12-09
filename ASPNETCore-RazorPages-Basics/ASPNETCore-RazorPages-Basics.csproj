@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>ASPNETCore_RazorPages_Basics</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ASPNETCore-RazorPages-Basics.Models\ASPNETCore-RazorPages-Basics.Models.csproj" />
+    <ProjectReference Include="..\ASPNETCore-RazorPages-Basics.Services\ASPNETCore-RazorPages-Basics.Services.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\images\" />
+  </ItemGroup>
+
+</Project>

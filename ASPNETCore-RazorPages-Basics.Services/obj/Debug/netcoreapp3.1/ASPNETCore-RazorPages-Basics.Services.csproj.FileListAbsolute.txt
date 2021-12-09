@@ -1,0 +1,12 @@
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\bin\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Services.deps.json
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\bin\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Services.dll
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\bin\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Services.pdb
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\bin\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.dll
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\bin\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Models.pdb
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Services.csproj.AssemblyReference.cache
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Services.AssemblyInfoInputs.cache
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Services.AssemblyInfo.cs
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Services.csproj.CoreCompileInputs.cache
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Services.dll
+C:\temp\aspnetcore-razorpages\ASPNETCore-RazorPages-Basics\ASPNETCore-RazorPages-Basics.Services\obj\Debug\netcoreapp3.1\ASPNETCore-RazorPages-Basics.Services.pdb

@@ -1,0 +1,120 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ASPNETCore-RazorPages-Basics.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/ASPNETCore-RazorPages-Basics.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASPNETCore-RazorPages-Basics.Models.dll": {}
+        }
+      },
+      "ASPNETCore-RazorPages-Basics.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "ASPNETCore-RazorPages-Basics.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ASPNETCore-RazorPages-Basics.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ASPNETCore-RazorPages-Basics.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ASPNETCore-RazorPages-Basics.Models/1.0.0": {
+      "type": "project",
+      "path": "../ASPNETCore-RazorPages-Basics.Models/ASPNETCore-RazorPages-Basics.Models.csproj",
+      "msbuildProject": "../ASPNETCore-RazorPages-Basics.Models/ASPNETCore-RazorPages-Basics.Models.csproj"
+    },
+    "ASPNETCore-RazorPages-Basics.Services/1.0.0": {
+      "type": "project",
+      "path": "../ASPNETCore-RazorPages-Basics.Services/ASPNETCore-RazorPages-Basics.Services.csproj",
+      "msbuildProject": "../ASPNETCore-RazorPages-Basics.Services/ASPNETCore-RazorPages-Basics.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "ASPNETCore-RazorPages-Basics.Models >= 1.0.0",
+      "ASPNETCore-RazorPages-Basics.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\DRM\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\temp\\aspnetcore-razorpages\\ASPNETCore-RazorPages-Basics\\ASPNETCore-RazorPages-Basics\\ASPNETCore-RazorPages-Basics.csproj",
+      "projectName": "ASPNETCore-RazorPages-Basics",
+      "projectPath": "C:\\temp\\aspnetcore-razorpages\\ASPNETCore-RazorPages-Basics\\ASPNETCore-RazorPages-Basics\\ASPNETCore-RazorPages-Basics.csproj",
+      "packagesPath": "C:\\Users\\DRM\\.nuget\\packages\\",
+      "outputPath": "C:\\temp\\aspnetcore-razorpages\\ASPNETCore-RazorPages-Basics\\ASPNETCore-RazorPages-Basics\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\DRM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\temp\\aspnetcore-razorpages\\ASPNETCore-RazorPages-Basics\\ASPNETCore-RazorPages-Basics.Models\\ASPNETCore-RazorPages-Basics.Models.csproj": {
+              "projectPath": "C:\\temp\\aspnetcore-razorpages\\ASPNETCore-RazorPages-Basics\\ASPNETCore-RazorPages-Basics.Models\\ASPNETCore-RazorPages-Basics.Models.csproj"
+            },
+            "C:\\temp\\aspnetcore-razorpages\\ASPNETCore-RazorPages-Basics\\ASPNETCore-RazorPages-Basics.Services\\ASPNETCore-RazorPages-Basics.Services.csproj": {
+              "projectPath": "C:\\temp\\aspnetcore-razorpages\\ASPNETCore-RazorPages-Basics\\ASPNETCore-RazorPages-Basics.Services\\ASPNETCore-RazorPages-Basics.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
